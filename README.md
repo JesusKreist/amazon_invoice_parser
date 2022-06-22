@@ -1,2 +1,2 @@
-# amazon_invoice_parser
+# amazon invoice parser
 Simple api that extracts purchase details from amazon invoices.
